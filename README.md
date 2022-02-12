@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <h4 align="center">A Programmer/Full-Stack Engineer/Architect</h4>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lcomplete&column=7" alt="lcomplete" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aoheng&column=7" alt="aoheng" /></a> </p>
 
 - 📖 我的开源技术文章：[AohengCloud](https://aoheng.github.io/aohengCloud)
 - 📘 我的待阅读书签，可从中发现优质文章：[To Read / Raindrop.io](https://raindrop.io/lcomplete/to-read-23073692)
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 ### ✨ GitHub Stats
 
-<img align="" height="144px" src="https://github-readme-stats.vercel.app/api?username=aoheng&show_icons=true&include_all_commits=true&line_height=21&locale=cn" /> <img align="" height="144px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lcomplete&layout=compact&locale=cn" />
+<img align="" height="144px" src="https://github-readme-stats.vercel.app/api?username=aoheng&show_icons=true&include_all_commits=true&line_height=21&locale=cn" /> <img align="" height="144px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aoheng&layout=compact&locale=cn" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aoheng" alt="aoheng" height="144px" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aoheng&label=Profile%20views&color=0e75b6&style=flat" alt="aoheng" /> </p>
